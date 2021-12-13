@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522526609493",
+    "project_id": "loginotp-c96c1",
+    "storage_bucket": "loginotp-c96c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522526609493:android:a124d8a4f7388e8ef044dc",
+        "android_client_info": {
+          "package_name": "com.example.loginotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522526609493-b0i80dn00i6diggpj96lv5cfqjpi6hcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlatSJaDN6W6PLp7JS9VHXdou2rMZpaMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522526609493-b0i80dn00i6diggpj96lv5cfqjpi6hcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
